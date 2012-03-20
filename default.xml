@@ -31,6 +31,7 @@
   <project path="device/sample" name="CyanogenMod/android_device_sample" />
   <project path="device/samsung/aries-common" name="CyanogenMod/android_device_samsung_aries-common" />
   <project path="device/samsung/c1-common" name="CyanogenMod/android_device_samsung_c1-common" />
+  <project path="device/samsung/tass" name="phiexz/android_device_samsung_gio" />
   <project path="device/samsung/tass" name="CyanogenMod/android_device_samsung_tass" />
   <project path="device/semc/mogami-common" name="CyanogenMod/android_device_semc_mogami-common" />
   <project path="device/semc/msm7x27-common" name="CyanogenMod/android_device_semc_msm7x27-common" />
@@ -240,6 +241,7 @@
   <project path="vendor/tmobile/themes/Androidian" name="CyanogenMod/android_vendor_tmobile_themes_Androidian" />
   <project path="vendor/tmobile/themes/Cyanbread" name="CyanogenMod/android_vendor_tmobile_themes_Cyanbread" />
   <project path="vendor/tmobile/products/themes" name="CyanogenMod/android_vendor_tmobile_products_themes" />
+  <project path="vendor/samsung/gio/" name="phiexz/proprietary_vendor_samsung_gio" revision="master"/>
 
   <project path="android" name="CyanogenMod/android" />
 
